@@ -1,0 +1,12 @@
+C:\Users\Manish\source\repos\AdPoc\AdPoc.Infra\bin\Release\netstandard2.0\AdPoc.Infra.deps.json
+C:\Users\Manish\source\repos\AdPoc\AdPoc.Infra\bin\Release\netstandard2.0\AdPoc.Infra.dll
+C:\Users\Manish\source\repos\AdPoc\AdPoc.Infra\bin\Release\netstandard2.0\AdPoc.Infra.pdb
+C:\Users\Manish\source\repos\AdPoc\AdPoc.Infra\bin\Release\netstandard2.0\AdPoc.Core.dll
+C:\Users\Manish\source\repos\AdPoc\AdPoc.Infra\bin\Release\netstandard2.0\AdPoc.Core.pdb
+C:\Users\Manish\source\repos\AdPoc\AdPoc.Infra\obj\Release\netstandard2.0\AdPoc.Infra.csprojAssemblyReference.cache
+C:\Users\Manish\source\repos\AdPoc\AdPoc.Infra\obj\Release\netstandard2.0\AdPoc.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Manish\source\repos\AdPoc\AdPoc.Infra\obj\Release\netstandard2.0\AdPoc.Infra.AssemblyInfoInputs.cache
+C:\Users\Manish\source\repos\AdPoc\AdPoc.Infra\obj\Release\netstandard2.0\AdPoc.Infra.AssemblyInfo.cs
+C:\Users\Manish\source\repos\AdPoc\AdPoc.Infra\obj\Release\netstandard2.0\AdPoc.Infra.csproj.CopyComplete
+C:\Users\Manish\source\repos\AdPoc\AdPoc.Infra\obj\Release\netstandard2.0\AdPoc.Infra.dll
+C:\Users\Manish\source\repos\AdPoc\AdPoc.Infra\obj\Release\netstandard2.0\AdPoc.Infra.pdb
