@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Manish\\source\\repos\\AdPoc1\\AdPoc.Core\\AdPoc.Core\\AdPoc.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Manish\\source\\repos\\AdPoc\\AdPoc.Core\\AdPoc.Core\\AdPoc.Core.csproj",
       "projectName": "AdPoc.Core",
-      "projectPath": "C:\\Users\\Manish\\source\\repos\\AdPoc1\\AdPoc.Core\\AdPoc.Core\\AdPoc.Core.csproj",
+      "projectPath": "C:\\Users\\Manish\\source\\repos\\AdPoc\\AdPoc.Core\\AdPoc.Core\\AdPoc.Core.csproj",
       "packagesPath": "C:\\Users\\Manish\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Manish\\source\\repos\\AdPoc1\\AdPoc.Core\\AdPoc.Core\\obj\\",
+      "outputPath": "C:\\Users\\Manish\\source\\repos\\AdPoc\\AdPoc.Core\\AdPoc.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
