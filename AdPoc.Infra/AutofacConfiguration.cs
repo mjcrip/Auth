@@ -9,6 +9,7 @@ namespace AppForms.Infrastructure
         public static void ConfigureDependencies(this IServiceCollection services, ContainerBuilder builder)
         {
             new AdPocRegistrar().RegisterDependencies(builder);
+            new IdentityRegistrar().RegisterDependencies(builder);
         }
     }
 }
