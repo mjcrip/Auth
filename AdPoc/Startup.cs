@@ -50,6 +50,7 @@ namespace AdPoc
                 options.Lockout.AllowedForNewUsers = true;
                 options.SignIn.RequireConfirmedEmail = true;
             });
+            services.AddSingleton<IEmailSender, EmailSender>();
             builder.Populate(services);
             this.ApplicationContainer = builder.Build();
             return new AutofacServiceProvider(this.ApplicationContainer);
