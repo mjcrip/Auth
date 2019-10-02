@@ -30,25 +30,18 @@ namespace AdPoc.Infra.Support
             message.To.Add(new MailboxAddress(email));
             var bodyBuilder = new BodyBuilder();
             bodyBuilder.HtmlBody = htmlMessage;
-            
             message.Body = bodyBuilder.ToMessageBody();
-
             message.Subject = subject;
             message.From.Add(new MailboxAddress("Manish Joshi", "manish.joshi@ongraphmail.com"));
             using (var client = new SmtpClient())
             {
                 // For demo-purposes, accept all SSL certificates (in case the server supports STARTTLS)
                 client.ServerCertificateValidationCallback = (s, c, h, e) => true;
-
                 client.Connect("smtpout.secureserver.net", 0, false);
-
                 // Note: only needed if the SMTP server requires authentication
                 client.Authenticate("manish.joshi@ongraphmail.com", "manish@2019");
-
                 client.Send(message);
-
                 client.Disconnect(true);
-
             }
             return Task.FromResult(0);
         }
